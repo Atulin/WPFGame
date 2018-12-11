@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\GameishThing\GameishThing\bin\Debug\GameishThing.exe.config
+C:\Users\student\source\repos\GameishThing\GameishThing\bin\Debug\GameishThing.exe
+C:\Users\student\source\repos\GameishThing\GameishThing\bin\Debug\GameishThing.pdb
+C:\Users\student\source\repos\GameishThing\GameishThing\obj\Debug\GameishThing.csprojAssemblyReference.cache
+C:\Users\student\source\repos\GameishThing\GameishThing\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\GameishThing\GameishThing\obj\Debug\App.g.cs
+C:\Users\student\source\repos\GameishThing\GameishThing\obj\Debug\GameishThing_MarkupCompile.cache
+C:\Users\student\source\repos\GameishThing\GameishThing\obj\Debug\GameishThing_MarkupCompile.lref
+C:\Users\student\source\repos\GameishThing\GameishThing\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\GameishThing\GameishThing\obj\Debug\GameishThing.g.resources
+C:\Users\student\source\repos\GameishThing\GameishThing\obj\Debug\GameishThing.Properties.Resources.resources
+C:\Users\student\source\repos\GameishThing\GameishThing\obj\Debug\GameishThing.csproj.GenerateResource.cache
+C:\Users\student\source\repos\GameishThing\GameishThing\obj\Debug\GameishThing.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\GameishThing\GameishThing\obj\Debug\GameishThing.exe
+C:\Users\student\source\repos\GameishThing\GameishThing\obj\Debug\GameishThing.pdb
